@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background: lightskyblue;
+    color: yellow;
+}
+h1 {
+    color: black;
+}
+p {
+    color: violet;
+    font-size: 60px;
+    text-align: center;
+    border-bottom: 1px solid salmon;
+}
